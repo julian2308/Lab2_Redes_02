@@ -60,6 +60,13 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
  
 7. Dado que no se presenta conectividad entre PCs de vlan distintas y no hay conexión de los PCs a su Gateway se propone realizar un proceso de truncamiento. 
 
+8. Para verificar el protocolo STP, se usa el comando show spanning-tree en cada switch, al ejecutar este comando en todos los switch, se puede ver cual switch fue asignado como raiz, siendo=
+
+Este fue asignado como raiz porque tiene la prioridad mas baja
+
+9. Para verificar un telnet desde un PC, se ejecuta el comando en la consola "telnet (ip de el dispositivo)" siendo un switch o el router asi:
+
+
 
 
 
