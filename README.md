@@ -41,6 +41,23 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
  ##### SWITCH 3
  ![image](https://user-images.githubusercontent.com/64561271/230113165-fb2d9b36-9a5e-4421-8ec3-9fde7eb9bfd1.png)
 
+6.Conectividad entre PC’s de misma Vlan mediante el comando PING *Dirección IP*.
+ ##### PC1 - PC4
+ ![image](https://user-images.githubusercontent.com/64561271/230113825-03223bc8-5c78-4cf2-871b-84e370050f47.png)
+ ##### PC2 - PC5
+ ![image](https://user-images.githubusercontent.com/64561271/230113882-91f76ef1-ae1e-496a-82ec-e2abe2a928bd.png)
+ ##### PC3 - PC6
+ ![image](https://user-images.githubusercontent.com/64561271/230113981-eebab8aa-277d-4173-bf6b-aace27a99b82.png)
+ ##### Conectividad de PC con su puerta de enlace.
+ ![image](https://user-images.githubusercontent.com/64561271/230115964-e740e28a-b7a4-4de2-b23c-ad017ea22ba3.png)
+ #### Intento de conexión del PC1 al PC5: fallido puesto que pertenecen a vlan distintas
+ ![image](https://user-images.githubusercontent.com/64561271/230116055-9b437895-236d-45ef-9e06-65571ac64021.png)
+ 
+7. Dado que no se presenta conectividad entre PCs de vlan distintas y no hay conexión de los PCs a su Gateway se propone realizar un proceso de truncamiento. 
+
+
+
+
 ### RETOS.
 El principal desafio para la resolución del laboratorio fue la introducción de un nuevo concepto tan global y importante como lo es el "Spanning Tree", fue un poco costoso al principio entder bien cómo era su funcionamiento a grandes rasgos. De la misma forma, cuando se configuró por primera vez fue uno de los mayores desafios, apesar de que ya se había realizado una actividad prácticamente igual en clase, el hecho de sentarse y hacerlo desde 0 por mano propia fue uno de los mayores impedimentos al momento de desarrollar el laboratorio.
 
