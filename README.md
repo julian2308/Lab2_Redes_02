@@ -6,6 +6,12 @@
 
 La empresa Julianes SAS solicita establecer una red empresarial, donde existen 3 departamentos, tecnología, marketing y tesorería, y se desea que tengan una comunicacion independeinte por departamento y además que se puedan comunicar entre ellos, con el capital de inversion, se solicita montar una topologíaa con 3 switches y 1 router, donde fpisicamente al dividido en 2 espacios de trabajo, se asignan dos switchs para 3 PCs, siendo 6 PCs en total, y el último switch que los conecta al router, para asi crear 3 VLANs de cada departamento más la VLAN de administración con enlaces troncales.
 
+### MONTAJE.
+
+![image](https://user-images.githubusercontent.com/64561271/230134904-9efead6a-0ea3-4b86-8019-0a811570238f.png)
+![image](https://user-images.githubusercontent.com/64561271/230134917-e1c431a7-c6d1-4526-a0a3-c6ac781c0bee.png)
+
+
 
 ### METODOLOGÍA SEGUIDA.
 
