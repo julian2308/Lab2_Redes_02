@@ -2,6 +2,11 @@
 
 ## Presentado por: Julián(Alvarado + Durán + Pinilla)
 
+### Contexto del problema
+
+Una empresa solicita establecer una red empresarial, donde los 3 departamentos de la empresa, siendo el de tecnologia, el de marketing, y la tesoreria de la empresa, tengan una comunicacion independeinte por departamento y ademas que se puedan comunicar entre ellos, con el capital de inversion, se pide montar una topologia con 3 switches y 1 router, donde fisicamente al dividido en 2 espacios de trabajo, se asignan dos switchs para 3 PCs, siendo 6 PCs en total, y el ultimo switch que los conecta al router, para asi crear 3 VLANs de cada departamento mas la VLAN de administracion con enlaces troncales.
+
+
 ### Metodología seguida.
 
 Para el desarrollo del laboratorio se tuvo en cuenta los siguiente conceptos:
