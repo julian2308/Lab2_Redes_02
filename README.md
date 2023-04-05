@@ -2,12 +2,12 @@
 
 ## Presentado por: Julián(Alvarado + Durán + Pinilla)
 
-### Contexto del problema
+### CONTEXTO DEL PROBLEMA.
 
 La empresa Julianes SAS solicita establecer una red empresarial, donde existen 3 departamentos, tecnología, marketing y tesorería, y se desea que tengan una comunicacion independeinte por departamento y además que se puedan comunicar entre ellos, con el capital de inversion, se solicita montar una topologíaa con 3 switches y 1 router, donde fpisicamente al dividido en 2 espacios de trabajo, se asignan dos switchs para 3 PCs, siendo 6 PCs en total, y el último switch que los conecta al router, para asi crear 3 VLANs de cada departamento más la VLAN de administración con enlaces troncales.
 
 
-### Metodología seguida.
+### METODOLOGÍA SEGUIDA.
 
 Para el desarrollo del laboratorio se tuvo en cuenta los siguiente conceptos:
 
