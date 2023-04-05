@@ -25,4 +25,4 @@ A diferencia del primer laboratorio existieron unas mejoras considerables, el tr
 * [2] Fragmento tomado de: "https://www.redeszone.net/tutoriales/redes-cable/vlan-tipos-configuracion/"
 * [3] Fragmento tomado de: "https://www.nextu.com/blog/cableado-estructurado-que-es-rc22/"
 * [4] Fragmento tomado de: "https://aprenderedes.com/2019/11/protocolo-de-arbol-de-extensionstp/"
-
+* Curso de Skills For All Networking Essentials. Módulo 17 y 18. "https://skillsforall.com/launch?id=104c1536-83d6-47db-b7a1-6007327b3134"
