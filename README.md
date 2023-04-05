@@ -16,6 +16,21 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
 
 1.Montaje de la topología.  
  ![image](https://user-images.githubusercontent.com/64561271/230110951-c54f73a3-3506-47a7-8303-c8f7a135481c.png)
+ 
+3.Verifique que se haya asignado correctamente las direcciones IP a cada una de las interfaces NIC de los PC.
+ *PC1 
+ ![image](https://user-images.githubusercontent.com/64561271/230111323-5d6a0f59-f70e-4491-9833-17f7edff085d.png)
+ *PC2
+ ![image](https://user-images.githubusercontent.com/64561271/230111421-592ad698-1c66-484d-b62e-e7f0ad1a1603.png)
+ *PC3
+ ![image](https://user-images.githubusercontent.com/64561271/230111438-001eb411-ed89-4cdd-9bbb-b720a066cd69.png)
+ *PC4
+ ![image](https://user-images.githubusercontent.com/64561271/230111458-bde692ba-56b7-4695-baad-0fc4ca40ffc2.png)
+ *PC5
+ ![image](https://user-images.githubusercontent.com/64561271/230111473-ee536112-7796-413e-a6c3-d48af6dee3c1.png)
+ *PC6
+ ![image](https://user-images.githubusercontent.com/64561271/230111493-edd1b882-f172-4522-b36f-7651f43909ce.png)
+
 
 
 ### RETOS.
