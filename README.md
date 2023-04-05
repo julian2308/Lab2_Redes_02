@@ -74,14 +74,11 @@ Este fue asignado como raiz porque tiene la prioridad mas baja
 ![image](https://user-images.githubusercontent.com/64561271/230134751-510eb163-59d6-411a-84d8-5b516809205c.png)
 
 
-9. Para verificar un telnet desde un PC, se ejecuta el comando en la consola "telnet (ip de el dispositivo)" siendo un switch o el router asi:
-
-
-
+9. Para verificar un telnet desde un PC, se ejecuta el comando en la consola "telnet (ip de el dispositivo)" siendo un switch o el router
 
 
 ### RETOS.
-El principal desafio para la resolución del laboratorio fue la introducción de un nuevo concepto tan global y importante como lo es el "Spanning Tree", fue un poco costoso al principio entder bien cómo era su funcionamiento a grandes rasgos. De la misma forma, cuando se configuró por primera vez fue uno de los mayores desafios, apesar de que ya se había realizado una actividad prácticamente igual en clase, el hecho de sentarse y hacerlo desde 0 por mano propia fue uno de los mayores impedimentos al momento de desarrollar el laboratorio.
+El principal desafio para la resolución del laboratorio fue la introducción de un nuevo concepto tan global y importante como lo es el "Spanning Tree", fue un poco costoso al principio entder bien cómo era su funcionamiento a grandes rasgos. De la misma forma, cuando se configuró por primera vez fue uno de los mayores desafios, apesar de que ya se había realizado una actividad prácticamente igual en clase, el hecho de sentarse y hacerlo desde 0 por mano propia fue uno de los mayores impedimentos al momento de desarrollar el laboratorio. Finalmente la parte del laboratorio que más problemas presentó fue la última fase, la parte del truncamiento fue algo que complicó bastante.
 
 ### CONCLUSIONES Y RECOMENDACIONES.
 A diferencia del primer laboratorio existieron unas mejoras considerables, el trabajo en equipo fue bastante más fluido, la comunicación entre Julianes fue más efectiva, y se facilitó la repartición de tareas. Claramente la complejidad del laboratorio fue superior comparada a la primera práctica, pero se contaba ya con distintos ejemplos realizados en clase y un poco más de practica en Packet Tracer, esto también debido al desarrollo de los distintos módulos del curso recomendado. Para próximos laboratorios se tendrá en cuenta la misma organización que hubo para esta práctica, la buena comunicación entre compañeros es algo que se quiere destacar de este laboratorio. 
