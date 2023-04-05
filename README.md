@@ -31,7 +31,15 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
  ##### PC6
  ![image](https://user-images.githubusercontent.com/64561271/230111493-edd1b882-f172-4522-b36f-7651f43909ce.png)
 
+5.Comprobacion de Vlans mediante el comando -Show Vlan Brief.
+ ##### SWITCH 1
+ ![image](https://user-images.githubusercontent.com/64561271/230113146-a618e567-9ef6-447c-b384-7d1765f449a3.png)
 
+ ##### SWITCH 2
+ ![image](https://user-images.githubusercontent.com/64561271/230113156-d564b992-4cee-499d-b934-600e153ab821.png)
+
+ ##### SWITCH 3
+ ![image](https://user-images.githubusercontent.com/64561271/230113165-fb2d9b36-9a5e-4421-8ec3-9fde7eb9bfd1.png)
 
 ### RETOS.
 El principal desafio para la resolución del laboratorio fue la introducción de un nuevo concepto tan global y importante como lo es el "Spanning Tree", fue un poco costoso al principio entder bien cómo era su funcionamiento a grandes rasgos. De la misma forma, cuando se configuró por primera vez fue uno de los mayores desafios, apesar de que ya se había realizado una actividad prácticamente igual en clase, el hecho de sentarse y hacerlo desde 0 por mano propia fue uno de los mayores impedimentos al momento de desarrollar el laboratorio.
