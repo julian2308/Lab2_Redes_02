@@ -12,6 +12,10 @@ Para el desarrollo del laboratorio se tuvo en cuenta los siguiente conceptos:
 * Spanning Tree: "Spanning Tree Protocol (STP) es un protocolo de capa dos publicado en la especificación IEEE 802.1.
 El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucles se consigue cuando un dispositivo es capaz de reconocer un bucle en la topología y bloquear uno o más puertos redundantes" [4].
 
+### RESPUETAS.
+
+1.Montaje de la topología.  
+ ![image](https://user-images.githubusercontent.com/64561271/230110951-c54f73a3-3506-47a7-8303-c8f7a135481c.png)
 
 
 ### RETOS.
